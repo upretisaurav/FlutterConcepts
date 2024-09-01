@@ -41,9 +41,9 @@ This project demonstrates how to dynamically change the app icon in a Flutter ap
 Below are the images showcasing the app icon before, during, and after the dynamic change:
 
 <div style="display: flex; justify-content: center;">
-    <img src="./assets/app_images/before_changing.png" alt="App Showcase One" width="200"/>
+    <img src="./assets/app_images/after_changing.png" alt="App Showcase One" width="200"/>
     <img src="./assets/app_images/changed.png" alt="App Showcase Two" width="200"/>
-    <img src="./assets/app_images/after_changing.png" alt="App Showcase Three" width="200"/>
+    <img src="./assets/app_images/before_changing.png" alt="App Showcase Three" width="200"/>
 </div>
 
 ### Usage
