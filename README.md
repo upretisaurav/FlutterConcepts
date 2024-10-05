@@ -1,6 +1,6 @@
 # Flutter Concepts Repository
 
-Welcome to the **flutterconcepts** repository! This repository is a collection of various Flutter concepts and practices that I have learned and implemented. Each folder in this repository represents a different concept or feature in Flutter, with code examples and explanations to help others understand and apply these concepts in their own Flutter projects.
+Welcome to the **flutterconcepts** repo! This repository is a collection of various Flutter concepts and practices that I have learned and implemented. Each folder in this repository represents a different concept or feature in Flutter, with code examples and explanations to help others understand and apply these concepts in their own Flutter projects.
 
 ### Exploring the Folders
 
